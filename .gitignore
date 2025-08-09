@@ -1,0 +1,43 @@
+# Swift Package Manager
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/
+.netrc
+
+# GUI Distribution
+dist/
+*.dmg
+*.pkg
+*.app.zip
+
+# Temporary build files
+create_icon
+app_icon_*.png
+AppIcon.iconset/
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*~
