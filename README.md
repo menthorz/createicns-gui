@@ -2,8 +2,6 @@
 
 A modern graphical user interface for [CreateICNS](https://github.com/jordanbaird/createicns), the command-line tool that creates 'icns' and 'iconset' files from standard images.
 
-![CreateICNS GUI Screenshot](docs/screenshot.png)
-
 ## 🎯 About
 
 This project extends the original [CreateICNS by Jordan Baird](https://github.com/jordanbaird/createicns) with a native macOS graphical interface built with SwiftUI. It maintains all the functionality of the original command-line tool while providing an intuitive drag-and-drop interface for everyday users.
@@ -124,14 +122,7 @@ Sources/
 
 ## 📸 Screenshots
 
-### Main Interface
-![Main Interface](docs/main-interface.png)
-
-### Drag & Drop
-![Drag and Drop](docs/drag-drop.png)
-
-### Processing
-![Processing](docs/processing.png)
+Screenshots will be added in future updates to showcase the interface.
 
 ## 🐛 Troubleshooting
 
