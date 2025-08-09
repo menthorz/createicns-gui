@@ -34,7 +34,7 @@ This project extends the original [CreateICNS by Jordan Baird](https://github.co
 
 ### Option 2: Build from Source
 ```bash
-git clone https://github.com/your-username/createicns-gui.git
+git clone git@github.com:menthorz/createicns-gui.git
 cd createicns-gui
 ./create_app_bundle.sh
 open dist/CreateICNS.app
@@ -92,7 +92,7 @@ createicns --help
 ### Building
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/createicns-gui.git
+git clone git@github.com:menthorz/createicns-gui.git
 cd createicns-gui
 
 # Build CLI version
@@ -180,8 +180,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/createicns-gui/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/createicns-gui/discussions)
+- **Issues**: [GitHub Issues](https://github.com/menthorz/createicns-gui/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/menthorz/createicns-gui/discussions)
 - **Original Project**: [CreateICNS Issues](https://github.com/jordanbaird/createicns/issues)
 
 ## ⭐ Acknowledgments

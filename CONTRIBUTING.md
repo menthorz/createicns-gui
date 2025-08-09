@@ -28,7 +28,7 @@ This project follows the [Contributor Covenant Code of Conduct](https://www.cont
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/your-username/createicns-gui.git
+   git clone git@github.com:menthorz/createicns-gui.git
    cd createicns-gui
    ```
 
