@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.2] - 2025-08-09
+
+### Changed
+- **Version Update**: Incremented to 0.1.2 to clearly differentiate from original CreateICNS
+- **Documentation Cleanup**: Removed redundant markdown files for cleaner repository
+- **Repository Optimization**: Streamlined project structure with essential files only
+
+### Improved
+- **Professional Presentation**: Clear distinction as GUI extension rather than fork
+- **Respect for Original**: Emphasizes this is an enhancement, not replacement
+- **Cleaner Codebase**: Easier navigation and maintenance
+
+### Notes
+- This version specifically acknowledges the excellent work by Jordan Baird
+- GUI extension complements rather than competes with original CLI tool
+- Version bump demonstrates this is an evolution of the v0.1.1 base
+
 ## [0.1.1] - 2025-08-09
 
 ### Added - GUI Extension

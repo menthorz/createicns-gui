@@ -4,7 +4,7 @@
 
 APP_NAME="CreateICNS"
 BUNDLE_ID="com.createicns.gui"
-VERSION="0.1.1"
+VERSION="0.1.2"
 BUILD_DIR=".build/release"
 APP_DIR="dist/${APP_NAME}.app"
 
